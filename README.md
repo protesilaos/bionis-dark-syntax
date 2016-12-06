@@ -22,6 +22,6 @@ apm install bionis-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/bionis](http://www.protesilaos.com/bionis)
+Project page: [https://protesilaos.com/bionis](https://protesilaos.com/bionis)
 
 Bionis light version: [https://atom.io/themes/bionis-syntax](https://atom.io/themes/bionis-syntax)
