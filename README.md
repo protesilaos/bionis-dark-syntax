@@ -1,16 +1,21 @@
 # Bionis syntax theme (dark version)
 
-High contrast colour scheme, hinting towards the blue-purple side of the spectrum. The most prevalent accent values are variants of blue, violet, green, cyan, and red.
+High contrast colour scheme, hinting towards the blue-purple side of the spectrum. The most prevalent accent values are variants of blue, violet, green, magenta, and cyan.
 
 *Bionis* comes in separate light and dark versions (see further info below).
 
-## Screenshot
+## Screenshots
 
-![bionis dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_dark_sample.png)
+![bionis dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![bionis dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_dark_scss.png)
+
+![bionis dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_dark_js.png)
+
+![bionis dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
